@@ -38,5 +38,5 @@ uses: github-actions-course/open-issue-action@v1
     title: Test Issue
     body: Test issue body
     assignees: |
-      alialaa
+      barnett-yuxiang
 ```
