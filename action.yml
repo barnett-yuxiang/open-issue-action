@@ -1,4 +1,4 @@
-name: "Open a Github Issue (Testing)"
+name: "Open a Github Issue (Yoreky)"
 author: yuli kamakura
 description: "Opens a github issue"
 inputs:
@@ -19,5 +19,5 @@ runs:
   using: "node16"
   main: "dist/index.js"
 branding:
-  icon: "alert-circle"
-  color: "yellow"
+  icon: "award"
+  color: "green"
